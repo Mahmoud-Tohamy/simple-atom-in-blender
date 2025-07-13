@@ -3,13 +3,13 @@ This atomic model was generated using Blender with Python scripting and represen
 
 link gif: https://drive.google.com/file/d/1F6546lp3Vt4_1ZTZA0NJY8Gk4Th20UMp/view?usp=sharing
 
- ##Features
+ ## Features
 - very simple to understand
 
-##disadvantages
+## disadvantages
 - Using multiple loops instead of a single loop increased the code length unnecessarily
 
- ##Installation 
+ ## Installation 
  
  blender : https://www.blender.org/download/releases/4-4/
  
